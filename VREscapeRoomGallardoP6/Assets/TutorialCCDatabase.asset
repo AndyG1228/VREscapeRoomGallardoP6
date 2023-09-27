@@ -22,4 +22,4 @@ MonoBehaviour:
   - clip: {fileID: 8300000, guid: e28c90b3e8525e24e8ffcc0a5e81f376, type: 3}
     Lines:
     - StartSecond: 0
-      Text: 
+      Text: '[ THUD ]'

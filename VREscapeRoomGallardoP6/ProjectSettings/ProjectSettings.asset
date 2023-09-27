@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 23
-  productGUID: 00000000000000000000000000000000
+  productGUID: 007211c20d695e844ab3f408720afc1d
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -787,7 +787,7 @@ PlayerSettings:
   cloudProjectId: 1a3bdf4f-e2b3-4deb-b72f-5f9a40bb96a6
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: 
+  projectName: VREscapeRoomGallardoP6 (1)
   organizationId: andyg1228
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
